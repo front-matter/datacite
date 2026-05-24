@@ -1,11 +1,6 @@
-# This file is part of DataCite.
-#
-# Copyright (C) 2015-2018 CERN.
-# Copyright (C) 2018 Center for Open Science.
-#
-# DataCite is free software; you can redistribute it and/or modify it
-# under the terms of the Revised BSD License; see LICENSE file for
-# more details.
+# SPDX-FileCopyrightText: 2015-2018 CERN.
+# SPDX-FileCopyrightText: 2018 Center for Open Science.
+# SPDX-License-Identifier: BSD-3-Clause
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

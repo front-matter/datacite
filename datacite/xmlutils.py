@@ -1,12 +1,5 @@
-# -*- coding: utf-8 -*-
-#
-# This file is part of DataCite.
-#
-# Copyright (C) 2016 CERN.
-#
-# DataCite is free software; you can redistribute it and/or modify it
-# under the terms of the Revised BSD License; see LICENSE file for
-# more details.
+# SPDX-FileCopyrightText: 2016 CERN.
+# SPDX-License-Identifier: BSD-3-Clause
 
 """XML utilities."""
 

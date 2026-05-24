@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2015-2021 CERN.
+# SPDX-FileCopyrightText: 2024 Caltech.
+# SPDX-License-Identifier: MIT
+
 from datacite import DataCiteMDSClient, schema45
 
 prefix = "10.1234"

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 CERN.
+# SPDX-FileCopyrightText: 2024 Caltech.
+# SPDX-License-Identifier: MIT
+
 import os
 from datacite import DataCiteRESTClient, schema45
 
