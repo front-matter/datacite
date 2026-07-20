@@ -1,8 +1,9 @@
 Changes
 =======
 
-Version v1.4.1 (released 2026-07-02)
+Version v1.4.1 (released 2026-07-20)
 
+- chore(setup): remove importlib-metadata as dependency
 - chore(setup): migrate build backend from setuptools to hatchling
 - chore(licenses): update license headers to use SPDX
 
